@@ -1,0 +1,1 @@
+Collection of all sorts of (mostly bash and python) scripts
