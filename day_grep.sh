@@ -1,5 +1,8 @@
 #!/bin/bash
 
+[[ -n "$1" ]] || { echo "Usage: day_grep.sh [query] [channel]"; exit; }
+
+
 query=$1
 channel=$2
 file="#$channel.log"
