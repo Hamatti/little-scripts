@@ -1,1 +1,1 @@
-Collection of all sorts of (mostly bash and python) scripts
+Collection of all sorts of (mostly bash and python) scripts that don't need anown repository but that I want to keep in Github.
